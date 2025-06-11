@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Welcome to coska.shop!</title>
+  </head>
+  <body>
+    <h2>coska.shop 단축링크 서비스에 오신 걸 환영합니다!</h2>
+    <p>예시 링크: <a href="/duck266">/duck266</a></p>
+  </body>
+</html>
