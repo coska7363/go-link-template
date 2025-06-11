@@ -1,0 +1,7 @@
+vercel.json
+{
+  "rewrites": [
+    { "source": "/duck266", "destination": "/duck266.html" }
+  ]
+}
+rewrite 설정 추가
