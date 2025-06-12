@@ -3,6 +3,10 @@
     {
       "source": "/duck267",
       "destination": "/duck267.html"
+    },
+    {
+      "source": "/health1",
+      "destination": "/health1.html"
     }
   ]
 }
